@@ -39,6 +39,10 @@ Usando as tarifas industriais públicas da ANEEL e assumindo que é possível de
 | **Economia estimada no período** | **R$ 2.620** |
 | **Projeção anual** | **R$ 9.170/ano** |
 
+![Painel de Resultados](painel_resultados.png)
+
+![Real vs Previsto](previsto_vs_real.png)
+
 Observação: esses números são baseados em dados reais e tarifas pública.
 
 ## O que o modelo aprendeu
